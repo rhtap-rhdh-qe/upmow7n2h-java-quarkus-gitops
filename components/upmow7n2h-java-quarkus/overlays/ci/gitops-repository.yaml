@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: upmow7n2h-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/upmow7n2h-java-quarkus-gitops
